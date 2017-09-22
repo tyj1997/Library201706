@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/loginimage.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/顶点.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/查询人物信息.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/1.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/充值.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/注销.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/添加书籍.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/查询书籍.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/时间.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/查看新消息.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/日志.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/loginimage.png</file>
+        <file>../build-LIBRARY-Desktop_Qt_5_8_0_MinGW_32bit-Debug/时间.png</file>
+    </qresource>
+</RCC>
